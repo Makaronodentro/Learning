@@ -1,5 +1,5 @@
 /**
- * caesar.c
+ * vigenere.c
  *
  * Georgios Kontogiannis
  *
